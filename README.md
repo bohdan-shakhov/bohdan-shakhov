@@ -1,6 +1,6 @@
-- 🌱 I’m currently learning: Java EE (Servlets, JSP/JSTL etc.)
+- 🌱 I’m currently learning: Enterprise Java, AWS
 - 📫 How to reach me: bogdanshahov2000@gmail.com
-- 👨‍💻 Experience: about 1 year of Java programming experience. Completed an external Java course from Epam 
-- ✨ Goal: continue to enjoy programming and find a place to help me do it 
+- 👨‍💻 Experience: about 3 year of Java programming experience.
+- ✨ Goal: continue to enjoy programming. Improve my technical and soft skills in the best IT company of the world. 
 - 📝 My CV: https://silly-franklin-b5520c.netlify.app
 - 🌍 Now I live in Ukraine, Kharkiv
